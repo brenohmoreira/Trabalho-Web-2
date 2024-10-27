@@ -1,0 +1,18 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: rgb(233, 233, 235);
+  padding: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#resultado-container {
+  padding: 20px;
+  background-color: white;
+  border: 1px solid lightgray;
+  width: max-content;
+  margin: 0 auto;
+}
